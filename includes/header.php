@@ -2,7 +2,7 @@
 if (session_status() === PHP_SESSION_NONE) {
     session_start();
 }
-$base_url = '/PHP/evensa_php';
+$base_url = '/platforme des événements'; // Remplacez par le chemin de base approprié
 $current_page = basename($_SERVER['PHP_SELF']);
 ?>
 <!DOCTYPE html>
