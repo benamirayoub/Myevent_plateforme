@@ -1,5 +1,5 @@
 <?php
-$base_url = '/PHP/evensa_php';
+$base_url = '/platforme des événements'; // Remplacez par le chemin de base approprié
 require_once '../includes/auth.php';
 require_once '../config/database.php';
 require_once '../includes/header.php';
